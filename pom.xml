@@ -6,4 +6,7 @@
   <version>0.0.1-SNAPSHOT</version>
    <name>Hello world</name>
   <description>This is test project to deploy in mvn repo</description>
+   <scm>
+    <url>https://github.com/Rathorepradhumna/helloworld</url>
+  </scm>
 </project>
